@@ -1,16 +1,8 @@
-```diff
-- If you like this project, please consider giving it a star (*) and follow me at GitHub & YouTube.
-```
-[<img src="https://github.com/Victoria TanaXShukla/Victoria TanaXShukla.github.io/blob/master/assets/icons/youtube.svg" width=40 height=50>](https://youtube.com/Victoria TanaShukla_AI)
-[<img src="https://github.com/Victoria TanaXShukla/Victoria TanaXShukla.github.io/blob/master/assets/icons/github.svg" width=40 height=50>](https://github.com/Victoria TanaXShukla)
-[<img src="https://github.com/Victoria TanaXShukla/Victoria TanaXShukla.github.io/blob/master/assets/icons/medium.svg" width=40 height=50>](https://medium.com/@Victoria Tana_Shukla)
-[<img src="https://github.com/Victoria TanaXShukla/Victoria TanaXShukla.github.io/blob/master/assets/icons/twitter_1.svg" width=40 height=50>](https://twitter.com/ashuklax)
 
 <h2>HTML Bootstrap Angular 9.0 MYSQL NodeJS CRUD Operation</h2>
 <h2>GPS Mobile Location Tracking App</h2>
 <i>send an email to info@elishconsulting.com for Pro version download.</i>
 <i>This repository is updated to Angular 9.0</i>
-<h2><a href="https://www.youtube.com/playlist?list=PLp0TENYyY8lHJGZX6-Ek4MkvAnzWmC9oa">Video Tutorials Link!</a></h2>
 In this app, I am going to demostrate how to use most common, popular  and widely used technologies.<br/>
 I believe, HTML, CSS, Javascript and Bootstrap are still used in 90% of iOS and Android we see today in market.<br/>
 And MYSQL is no doubt king of all databases.<br/>
