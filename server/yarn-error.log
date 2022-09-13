@@ -1,0 +1,49 @@
+Arguments: 
+  /Users/mac/.nvm/versions/node/v14.19.0/bin/node /opt/homebrew/bin/yarn install
+
+PATH: 
+  /Users/mac/.nvm/versions/node/v14.19.0/bin:/Users/mac/development/flutter/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/mac/.nvm/versions/node/v14.19.0/bin:/Users/mac/development/flutter/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/mac/Library/Android/sdk/emulator-2:/Users/mac/Library/Android/sdk/tools:/Users/mac/Library/Android/sdk/tools/bin:/Users/mac/Library/Android/sdk/platform-tools:/Users/mac/Library/Android/sdk/emulator-2:/Users/mac/Library/Android/sdk/tools:/Users/mac/Library/Android/sdk/tools/bin:/Users/mac/Library/Android/sdk/platform-tools
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.19.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:71:26)
+
+npm manifest: 
+  {
+    "name": "server",
+    "version": "1.1.0",
+    "description": "GPS-Mobile-Tracking-App",
+    "main": "app.js",
+    "scripts": {
+      "test": "test",
+      "start": "nodemon index"
+    },
+    "author": "Victoria Tana",
+    "license": "MIT",
+    "dependencies": {
+      "bcrypt": "3.0.7",
+      "body-parser": "~1.19.0",
+      "cors": "~2.8.5",
+      "dotenv": "~8.2.0",
+      "express": "~4.17.1",
+      "jsonwebtoken": "~8.5.1",
+      "mysql": "~2.17.1",
+      "nodemon": "~2.0.2",
+      "password-hash-and-salt": "~0.1.4"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
