@@ -1,7 +1,7 @@
 
 <h2>HTML Bootstrap Angular 9.0 MYSQL NodeJS CRUD Operation</h2>
 <h2>GPS Mobile Location Tracking App</h2>
-<i>send an email to info@elishconsulting.com for Pro version download.</i>
+<i>send an email to rob_vicky@yahoo.com for Pro version download.</i>
 <i>This repository is updated to Angular 9.0</i>
 In this app, I am going to demostrate how to use most common, popular  and widely used technologies.<br/>
 I believe, HTML, CSS, Javascript and Bootstrap are still used in 90% of iOS and Android we see today in market.<br/>
